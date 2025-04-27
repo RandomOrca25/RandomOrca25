@@ -4,6 +4,6 @@
 - 📫 To reach me, join my Discord server at https://discord.gg/zVcmtb37jf
 - 😄 Pronouns: he/him/[many joke pronouns I won't list here]
 - ⚡ Fun fact: I am a person
-- ❌ I won't vc or help anyone unless I know them in real life
+- ❌ I won't vc or help anyone that much if I don't know them in real life :>
 - 💡 Latest project: FreezePlayers!
 - 😨 Don't look at my old repos, they kinda stink, the decent ones are pinned below ⬇️⬇️⬇️ 
