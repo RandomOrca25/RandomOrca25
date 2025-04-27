@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RandomOrca25
-- 🧑‍🦯 Still Discovering my passions in life, so far: Minecraft, coding, hiking, biking, and planes
+- 🚶 Still Discovering my passions in life, so far: Minecraft, coding, hiking, biking, and planes
 - 👀 I’m interested in random stuff, primarily about Minecraft
 - 🌱 I’m currently learning Java, Python, and Minecraft plugins [spigot]
 - 📫 To reach me, join my Discord server at https://discord.gg/zVcmtb37jf
