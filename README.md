@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @RandomOrca25
-- 🚶 Still Discovering my passions in life, so far: Minecraft, coding, hiking, biking, photography and planes
-- 👀 I’m interested in random stuff, primarily about Minecraft
-- 🌱 I’m currently learning Java, Python, and Minecraft plugins [spigot]
-- 📫 To reach me, join my Discord server at https://discord.gg/zVcmtb37jf
-- 😄 Pronouns: he/him/[many joke pronouns I won't list here]
-- ⚡ Fun fact: I am a person
-- ❌ I won't vc or meetup in real life at all if I don't know them in real life, but I might help someone a little sometimes.
-- 💡 Latest project: FreezePlayers!
-- 😨 Don't look at my old repos, they kinda stink, the decent ones are pinned below ⬇️⬇️⬇️ 
+hey!
+
+I prefer python/html 
+I'm alright at Java
+But I'm really good at stuff like IT security (vell vell vell) <- im indian, so it's not racist
+I've made several game sites; I was one of the original founders of mathcraft/sillycraft, i recently left to do other stuff; a guy named Albert took over
+
+I know how linux works but I usually host on windows cause im too lazy to migrate my files 🤪
